@@ -1,3 +1,3 @@
 # Spark
 
-Spark pratice repo
+Spark practice repo
