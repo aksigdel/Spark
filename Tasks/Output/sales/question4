@@ -1,0 +1,36 @@
+Region,Item Type,Total Units Sold,rank
+Asia,Cereal,6397658,1
+Asia,Snacks,6330265,2
+Asia,Office Supplies,6187421,3
+Asia,Vegetables,6121703,4
+Asia,Clothes,6117405,5
+Australia and Oceania,Personal Care,3616014,1
+Australia and Oceania,Vegetables,3569149,2
+Australia and Oceania,Cereal,3535286,3
+Australia and Oceania,Beverages,3436051,4
+Australia and Oceania,Clothes,3393563,5
+Central America and the Caribbean,Cosmetics,4814795,1
+Central America and the Caribbean,Clothes,4675554,2
+Central America and the Caribbean,Meat,4675081,3
+Central America and the Caribbean,Office Supplies,4595205,4
+Central America and the Caribbean,Baby Food,4524204,5
+Europe,Cereal,11076271,1
+Europe,Office Supplies,10905284,2
+Europe,Vegetables,10859623,3
+Europe,Beverages,10782748,4
+Europe,Fruits,10773210,5
+Middle East and North Africa,Office Supplies,5431214,1
+Middle East and North Africa,Personal Care,5425062,2
+Middle East and North Africa,Baby Food,5381090,3
+Middle East and North Africa,Clothes,5356314,4
+Middle East and North Africa,Snacks,5346822,5
+North America,Cosmetics,996810,1
+North America,Household,972617,2
+North America,Beverages,959618,3
+North America,Cereal,955574,4
+North America,Baby Food,910088,5
+Sub-Saharan Africa,Cosmetics,11315140,1
+Sub-Saharan Africa,Baby Food,11103311,2
+Sub-Saharan Africa,Beverages,11073025,3
+Sub-Saharan Africa,Office Supplies,11022827,4
+Sub-Saharan Africa,Household,10967644,5
